@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Embedded Systems, Linux and IOT stuff🤖.
+- 🌱 I’m currently learning Golang, RTOS, BSP etc.,
+- 📫 How to reach me: My Linkedin profile 🕸️- https://www.linkedin.com/in/sushant-daspute/
+- ⚡ Fun fact: I often click pictures 📷- https://www.instagram.com/sushant_daspute_patil_/ and I am also learning to play guitar 🎸.
 <!--
 **sushantdasputepatil/sushantdasputepatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
