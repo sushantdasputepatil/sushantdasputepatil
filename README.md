@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![alt text](https://media-exp1.licdn.com/dms/image/C4E22AQFkgUxAnbMXew/feedshare-shrink_1280-alternative/0?e=1603929600&v=beta&t=6hh9aaZEPiTcZt792CuHRG_-vslcfFDPLfGVOCWHEBU)
